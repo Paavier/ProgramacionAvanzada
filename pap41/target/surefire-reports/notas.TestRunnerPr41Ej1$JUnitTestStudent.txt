@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: notas.TestRunnerPr41Ej1$JUnitTestStudent
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.019 s -- in notas.TestRunnerPr41Ej1$JUnitTestStudent
