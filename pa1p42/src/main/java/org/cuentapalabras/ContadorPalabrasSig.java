@@ -47,7 +47,7 @@ public class ContadorPalabrasSig extends ContadorPalabras{
      @Override
      protected void incluye(String palabra){
           if(!this.noSignificativas.contains(palabra.toUpperCase())){
-               super.incluye(palabra);
+               super.incluye(palabra.toUpperCase());
           }
      }
 }
